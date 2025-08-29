@@ -1,0 +1,15 @@
+create paragraph explaining the purpose of your web application
+
+The purpose of this web application is to provide clear and accessible career guidance focused on the DevOps field for students who have completed their 10th grade. It aims to educate users about what DevOps is, why it is a promising career choice, and the essential skills and educational paths required to succeed in this fast-growing IT domain. By offering structured information on key concepts, certifications, and career opportunities, the application helps learners make informed decisions about their future careers, encourages skill development in programming, automation, and cloud technologies, and motivates them to engage with real-world projects and continuous learning. Ultimately, the application serves as a roadmap to prepare young students for a successful DevOps career in the evolving technology landscape[2][4][5].
+
+Citations:
+[1] DevOps based Web Application Development - Explained - Toobler https://www.toobler.com/blog/devops-based-web-application-development-and-their-implementation
+[2] DevOps Career Path: Your 2025 Career Guide - Coursera https://www.coursera.org/articles/devops-career-path
+[3] Learn to become a DevOps Engineer or SRE - Developer Roadmaps https://roadmap.sh/devops
+[4] The DevOps Career Path: A Complete Guide For 2025 – Instatus Blog https://instatus.com/blog/devops-career-path
+[5] How to Build a Successful DevOps Career Path? [2025 Guide] https://pg-p.ctme.caltech.edu/blog/devops/how-to-build-devops-career-path
+[6] What Does a DevOps Engineer Do? A 2025 Career Guide - Coursera https://www.coursera.org/in/articles/devops-engineer
+[7] DevOps Career Path: Your Guide For 2025 - igmGuru https://www.igmguru.com/blog/devops-career-path
+[8] DevOps Tutorial - GeeksforGeeks https://www.geeksforgeeks.org/devops-tutorial/
+[9] Career guidance : r/devops - Reddit https://www.reddit.com/r/devops/comments/1408vwc/career_guidance/
+[10] DevOps Career Roadmap (Beginner to Expert) - YouTube https://www.youtube.com/watch?v=nyME6hQeCkw
